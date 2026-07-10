@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>200 Follower Gewinnspiel | Darktonics</title>
+
+    <style>
+        body{
+            margin:0;
+            background:#1b1b1b;
+            color:#fff;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+
+        .container{
+            max-width:900px;
+            margin:40px auto;
+            padding:30px;
+            background:#2a2a2a;
+            border-radius:15px;
+            box-shadow:0 0 20px rgba(0,0,0,.4);
+        }
+
+        h1{
+            text-align:center;
+            color:#8a5cff;
+        }
+
+        h2{
+            color:#b78cff;
+            margin-top:35px;
+        }
+
+        ul{
+            line-height:1.8;
+        }
+
+        .button{
+            display:inline-block;
+            margin-top:20px;
+            padding:15px 30px;
+            background:#8a5cff;
+            color:white;
+            text-decoration:none;
+            border-radius:10px;
+            font-weight:bold;
+        }
+
+        .button:hover{
+            background:#6f46d9;
+        }
+
+        .info{
+            background:#3a3a3a;
+            padding:20px;
+            border-radius:10px;
+            margin-top:25px;
+        }
+
+        footer{
+            text-align:center;
+            margin-top:40px;
+            color:#bbbbbb;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🎉 200 Follower Gewinnspiel 🎉</h1>
+
+<p>
+Wir haben gemeinsam die <strong>200-Follower-Marke</strong> erreicht!
+Vielen Dank an jeden Einzelnen für euren Support, eure Zeit im Stream und die vielen gemeinsamen Momente. 💜
+</p>
+
+<h2>🎁 Das gibt es zu gewinnen</h2>
+
+<ul>
+<li>🦖 1× LurkDino T-Shirt <br><small>(Von diesem Motiv gibt es insgesamt nur 2 Exemplare.)</small></li>
+
+<li>🎵 1× MusikDino T-Shirt <br><small>(Von diesem Motiv gibt es ebenfalls nur 2 Exemplare.)</small></li>
+</ul>
+
+<h2>📅 Teilnahme</h2>
+
+<div class="info">
+
+<p><strong>Das Gewinnspiel läuft 2 Tage.</strong></p>
+
+<p>
+Anmelden könnt ihr euch entweder über Discord oder direkt auf Twitch.
+</p>
+
+<a class="button" href="https://discord.com/invite/U56HtnJRf7" target="_blank">
+➡ Zum Discord
+</a>
+
+</div>
+
+<h2>✅ Voraussetzungen</h2>
+
+<ul>
+<li>Follower meines Twitch-Kanals</li>
+<li>Mindestens 10 Stunden Watchtime</li>
+</ul>
+
+<h2>🎥 Auslosung</h2>
+
+<p>
+📅 <strong>Datum und Uhrzeit werden noch bekannt gegeben.</strong>
+</p>
+
+<p>
+Die Gewinner werden live im Stream ausgelost.
+Sollte ein Gewinner nicht live dabei sein, erfolgt die Benachrichtigung anschließend per Direktnachricht über Discord oder Twitch.
+</p>
+
+<p>
+Die T-Shirt-Größe sowie alle weiteren Informationen (z. B. Versand) werden anschließend per Privatnachricht mit den Gewinnern abgestimmt.
+</p>
+
+<footer>
+
+<hr>
+
+<p>
+Vielen Dank für euren unglaublichen Support! 💜<br>
+Ich freue mich auf die nächsten gemeinsamen Streams.<br><br>
+
+<strong>Viel Glück an alle Teilnehmer! DinoDance</strong>
+</p>
+
+</footer>
+
+</div>
+
+</body>
+</html>
